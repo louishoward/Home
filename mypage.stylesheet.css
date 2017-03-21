@@ -1,0 +1,19 @@
+
+body
+{ 
+	margin: 5%;
+	font-face: verdana;
+	background-color: yellow;
+	color: #3300FF;
+} /* body */
+p
+{	
+	margin: o;
+	font-family: sans-seriff;
+	text-indent: 1em;
+	line-height: 1.75;
+} /* p */
+p.first
+{
+	text-indent: 0;
+} /* p.first */
